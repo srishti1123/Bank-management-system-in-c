@@ -1,0 +1,2 @@
+# Bank-management-system-in-c
+The Bank Management System project in C incorporates a login page for secure access. The system provides a menu with options to create, update, and delete customer accounts. Users can view a list of customers and retrieve detailed information about a particular customer. The system also includes transaction functionality, enabling cash withdrawals and deposits. The project aims to efficiently manage banking operations, ensuring accurate customer information and facilitating smooth transactions.
